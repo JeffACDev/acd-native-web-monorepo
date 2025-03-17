@@ -1,0 +1,16 @@
+{
+  "name": "acd-native-web-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JeffACDev/acd-native-web-monorepo.git",
+  "author": "JeffACDev <jeff@andersoncreativedesign.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "turbo": "^2.4.4"
+  }
+}
