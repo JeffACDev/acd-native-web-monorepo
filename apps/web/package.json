@@ -13,7 +13,8 @@
     "next": "15.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-native-web": "^0.19.13"
+    "react-native-web": "^0.19.13",
+    "ui": "*"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
