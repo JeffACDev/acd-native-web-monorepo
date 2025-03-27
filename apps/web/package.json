@@ -9,19 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@expo/next-adapter": "^6.0.0",
-    "next": "15.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-native-web": "^0.19.13",
-    "ui": "*"
+    "next": "15.2.4"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
+    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
   }
 }
